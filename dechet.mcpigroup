@@ -1,0 +1,7 @@
+[PROJECTS]
+Count=3
+Project0=..\micro\MyProject.mcppi
+Project1=..\codemicro.mcppi
+Project2=dechet.mcppi
+[ActiveProject]
+Index=2
